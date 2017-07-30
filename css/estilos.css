@@ -1,0 +1,26 @@
+/*--header--*/
+.navbar{
+	margin-bottom: 0;
+}
+
+.jumbotron-fm{
+	width: 100%;
+    height: 300px;
+    background-image: url(../img/OSTEO_SIN_MAX.jpg);
+    background-size: 100% 100%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+.jumbotron-fm .ini1{
+
+	color: blue;
+
+}
+
+.jumbotron-fm .ini2{
+
+	color: blue;
+
+}
