@@ -3,9 +3,8 @@
 <head>
 
   <meta charset="UTF-8">
+ <?php include 'include/header_cammon.php* ';
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/estilos.css">
 
   <title>OSTEO SIN MAX</title>
 </head>
@@ -41,15 +40,6 @@
             <li><a href="#">Blog</a></li>
             <li><a href="#">Contacto</a></li>
           </ul>
-
-          <form action="" class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="buscar">
-            </div>
-            <button type="submit" class="btn btn-primary">
-              <span class="glyphicon glyphicon-search"></span>
-            </button>
-          </form>
         </div>
       </div>
     </nav>
@@ -69,14 +59,15 @@
 
 
 <section class="main container"> 
-  <div class="menu_bar"> 
-
-    
+  <div class="row"> 
+    <section class="post col-md9">
+      <div class="miga-de-pan">
+      <ol class="breadcrumb">
+        <li>  
+      </ol>
+    </section>
   </div>
     
-  </section>
-    
-  </div>
 </section>
 
 <footer></footer>
