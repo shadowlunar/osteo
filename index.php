@@ -4,26 +4,15 @@
 
   <meta charset="UTF-8">
   <?php include 'includes/header_1.php'; ?>;
-
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
   <title>OSTEO SIN MAX</title>
-</head>
-<body>
-<!--aqui va el jumbotron-->  
 
-<section class="jumbotron jumbotron-fm">
-  <div class="container">
-    
-    <h1 class="ini2">OSTEO SIN MAX</h1>
-    <br>
-    <p><h3 class="ini1">es un suplemento alimenticio de origen 100% natural<h3></p>
-  </div>
-</section>
 
-<section class="prueba container">
-  
-   <nav class="navbar navbar-inverse  navbar-static-top" style="background-color: #033A90; " role="navigation">
+<header>   
+
+
+<nav class="navbar navbar-inverse  navbar-static-top" style="background-color: #033A90;  role="navigation" id="indice_1">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navegacion-fm">
@@ -56,18 +45,48 @@
         </div>
       </div>
     </nav>
+    </header>
+</head>
+<body>
 
-  
+
+
+
+
+
+<!--aqui va el jumbotron-->  
+
+<section class="jumbotron jumbotron-fm">
+  <div class="container">
+    
+    <h1 class="ini2">OSTEO SIN MAX</h1>
+    <br>
+    <p><h3 class="ini1">es un suplemento alimenticio de origen 100% natural<h3></p>
+  </div>
 </section>
 
 
+
+<nav class="navbar navbar-default" id="part2">
 <section class="main container"> 
   <div class="row"> 
-    <section class="post col-md9">
-      <div class="miga-de-pan">
-      <ol class="breadcrumb">
-        <li>  
-      </ol>
+    <section class="post col-md-12">
+      <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a></li>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul>
+    </ul>
+  </div>
+  </nav>
+
+
     </section>
   </div>
     
