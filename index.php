@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-
   <meta charset="UTF-8">
   <?php include 'includes/header_1.php'; ?>;
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-
-  <title>OSTEO SIN MAX</title>
-
-
+<title>OSTEO SIN MAX</title>
 <header>   
-
-
 <nav class="navbar navbar-inverse  navbar-static-top" style="background-color: #033A90;  role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -24,41 +18,24 @@
           <a href="#" class="navbar-brand">OSTEO SIN MAX</a>
         </div>
         <!-- Inicia Menu -->
-        <div class="collapse navbar-collapse" ; id="navegacion-fm">
+        <div class="collapse navbar-collapse navbar-right " ; id="navegacion-fm">
           <ul class="nav navbar-nav" >
-            <li class=""><a href="#">Inicio</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">
-                Categorias <span class="caret"></span>
-              </a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="#">Categoria #1</a></li>
-                <li class="divider"></li>
-                <li><a href="#">Categoria #2</a></li>
-                <li><a href="#">Categoria #3</a></li>
-                <li><a href="#">Categoria #4</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Blog</a></li>
+            <li class="#"><a href="#">Inicio</a></li>
+            <li><a href="#">Quienes somos</a></li>
             <li><a href="#">Contacto</a></li>
+            <li><a href="#">Aserca de</a></li>
           </ul>
         </div>
       </div>
     </nav>
-    </header>
+</header>
 </head>
+
+
 <body>
-
-
-
-
-
-
 <!--aqui va el jumbotron-->  
-
 <section class="jumbotron jumbotron-fm">
   <div class="container">
-    
     <h1 class="ini2">OSTEO SIN MAX</h1>
     <br>
     <p><h3 class="ini1">es un suplemento alimenticio de origen 100% natural<h3></p>
@@ -70,13 +47,13 @@
 <nav class="navbar navbar-light" style="background-color: #1913C1;">
 <section class="main container"> 
   <div class="row"> 
-    <section class="post col-md-12">
+    <section class="post col-lg-12">
       <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
+      <li class="#"><a href="#">Home</a></li>
          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">GRUPO PYR-TEC <span class="caret"></span></a>
       <ul class="dropdown-menu">
-          <li><a href="#">Page 1-1</a></li>
-          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Osteo sin max(tab)</a></li>
+          <li><a href="#">Osteo sin max(tab)</a></li>
           <li><a href="#">Page 1-3</a></li>
         </ul> 
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">PALTI<span class="caret"></span></a>
@@ -102,34 +79,17 @@
   </nav>
 
 
+  <article class="post clearfix">
+
+    
+  </article> 
+  
+
     </section>
   </div>
     
 </section>
-
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-v
-
-
-<footer></footer>
+<footer> copyright</footer>
 
 
 

@@ -1,6 +1,6 @@
 /*--header--*/
 .navbar{
-	margin-bottom: 200;
+	margin-bottom: auto;
 }
 
 .jumbotron-fm{
@@ -12,14 +12,8 @@
     text-align: center;
 }
 
-
 .jumbotron-fm ,.ini1,.ini2{
 
 	color: blue;
 
-}
-
-.main{
-	margin-top: 10px;
-	margin-bottom: 10px;
 }
