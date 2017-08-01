@@ -12,7 +12,7 @@
 <header>   
 
 
-<nav class="navbar navbar-inverse  navbar-static-top" style="background-color: #033A90;  role="navigation" id="indice_1">
+<nav class="navbar navbar-inverse  navbar-static-top" style="background-color: #033A90;  role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navegacion-fm">
@@ -67,17 +67,32 @@
 
 
 
-<nav class="navbar navbar-default" id="part2">
+<nav class="navbar navbar-light" style="background-color: #1913C1;">
 <section class="main container"> 
   <div class="row"> 
     <section class="post col-md-12">
       <ul class="nav navbar-nav">
       <li class="active"><a href="#">Home</a></li>
-      <li><a href="#">Page 1</a></li>
-      <li><a href="#">Page 2</a></li>
-      <li><a href="#">Page 3</a></li>
-      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a></li>
+         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">GRUPO PYR-TEC <span class="caret"></span></a>
+      <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul> 
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">PALTI<span class="caret"></span></a>
         <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul> 
+         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">BOTICA IZOMAL<span class="caret"></span></a>
+      <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul> 
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">NATURAL NEEM<span class="caret"></span></a>
+      <ul class="dropdown-menu">
           <li><a href="#">Page 1-1</a></li>
           <li><a href="#">Page 1-2</a></li>
           <li><a href="#">Page 1-3</a></li>
@@ -92,10 +107,33 @@
     
 </section>
 
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+v
+
+
 <footer></footer>
 
-<script src="js/jquery-3.2.1.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+
+
+  <?php include 'includes/footer_1.php'; ?>;
 </body>
 </html>
 
