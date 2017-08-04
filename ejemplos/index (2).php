@@ -42,32 +42,9 @@
     <p><h3 class="ini1">es un suplemento alimenticio de origen 100% natural<h3></p>
   </div>
 </section>
-<section>
-<div class="container">
-  <div class="row">
-    <div class="col-xs-3">
-      <h1i id="main-logo"><a href="index.php>"><span>Osteo Sin Max</span></a></h1>
-    </div>
-    <div class="col-xs-9"></div>
-      <ul id="main-menu" class="nav nav-pills">
-        <li class="active"><a href="index.php">inicio</a></li>
-        <li class="dropdown">
-          <a href="dropdown-toggle" data-toggle="dropdown" href="#">grupo pyr-tec<span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><a href="osteo_sin_max.php">osteo sin max (tab)</a></li>
-            <li><a href="osteo_sin_max.php">osteo sin max (Crema)</a></li>
-            <li><a href="osteo_sin_max.php">opticol eye plus (tab)</a></li>
-            <li><a href="osteo_sin_max.php">osteo sin max (tab)</a></li>
-          </ul>
-        </li>
-      </ul>
 
 
-  </div>
 
-  
-</div>
-</section>
 <section class="main container">
  <article class="post clearfix">
   <div class="row">
