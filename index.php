@@ -8,6 +8,11 @@
 </head>
 <body>
 <?php include 'includes/header_2.php';?>
+
+
+
+
+
 <section class="main container">
  <article class="post clearfix">
   <div class="row">
@@ -28,7 +33,7 @@
 </article>
 </section>
 
-<footer> copyright</footer>
+<?php include 'includes/footer_2.php';?>
 <?php include 'includes/footer_1.php';?>
 </body>
 </html>
