@@ -10,5 +10,8 @@
 <?php include 'includes/header_2.php';?>
 
 
+
+<?php include 'includes/footer_2.php';?>
+<?php include 'includes/footer_1.php';?>
 </body>
 </html>
