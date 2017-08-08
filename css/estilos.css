@@ -28,8 +28,18 @@
 	margin-bottom: 20px;
 }
 
+
 .carousel-inner{
 height: 100%;
 max-width: 100%;
   
   }  
+.carousel-inner {
+    align-content: center;
+}
+
+.item>img {
+    min-height: 400px;
+    max-height: 400px;
+}
+
