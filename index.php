@@ -10,28 +10,43 @@
 <?php include 'includes/header_2.php';?>
 
 
+<div class="container">
+  <h2>Carousel Example</h2>  
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
 
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="img/HEPATOGENOL.jpg" alt="Los Angeles" >
+      </div>
 
+      <div class="item">
+        <img src="img/oste.jpg" alt="Chicago" >
+      </div>
+    
+      <div class="item">
+        <img src="img/OSTEO_SIN_MAX.jpg" alt="New york" >
+      </div>
+    </div>
 
-<section class="main container">
- <article class="post clearfix">
-  <div class="row">
-    <section class="post col-md-12" style="text-align: center;">
-    <a href="#" class="thumb">
-      <img src="img/oste.jpg" alt=""  width="260" height="245">
-      <img src="img/logo.jpg" alt=""  width="260" height="245">
-      <img src="img/OSTEO_SIN_MAX.jpg" alt=""  width="260" height="245">
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
     </a>
-    </section>
-     <h2 class="post-title">
-      <a href="#"> OSTEO SIN MAX
-      </a>
-      <P><span class="post-fecha">26 de enero de 2015</span> por <span class="post-autor"><a href="#"> carlos arturo</a></span></P>
-      <p class="post-contenido text-justify">OSTEO SIN MAX TABLETAS CAMBIO DE IMAGEN, DEBIDO A LAS SEMEJANZAS DE LA PIRATERÍA CON EL NUESTRO, YA QUE EL PRODUCTO PIRATA ESTA AFECTANDO A MUCHAS PERSONAS.</p>
-    </h2>
-  </div>  
-</article>
-</section>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+
 
 <?php include 'includes/footer_2.php';?>
 <?php include 'includes/footer_1.php';?>
