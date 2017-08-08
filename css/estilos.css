@@ -28,13 +28,6 @@
 	margin-bottom: 20px;
 }
 
-<<<<<<< HEAD
-.carousel-inner{
-height: 100%;
-max-width: 100%;
-  
-  }  
-=======
 .carousel-inner {
     align-content: center;
 }
@@ -43,4 +36,3 @@ max-width: 100%;
     min-height: 400px;
     max-height: 400px;
 }
->>>>>>> 1183a9b90d37d1ba2b9039fcaac44c5a6f0b0d11
