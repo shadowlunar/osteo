@@ -29,8 +29,7 @@
 }
 
 .carousel-inner{
-	display: block;
-    margin: auto;
-    width: 50%;
+height: 100%;
+max-width: 100%;
   
   }  

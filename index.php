@@ -23,7 +23,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="img/HEPATOGENOL.jpg" alt="Los Angeles" >
+        <img src="img/HEPATOGENOL_PLUS_MAX.jpg" alt="Los Angeles" >
       </div>
 
       <div class="item">
