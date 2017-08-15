@@ -1,4 +1,4 @@
-/*--header--*/
+
 .navbar{
 	margin-bottom: auto;
 }
@@ -14,23 +14,6 @@
 
 .jumbotron-fm ,.ini1,.ini2{
 
-	color: blue;
+    color: blue;
 
-}
-
-.main{
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-
-.post{
-	padding-bottom: 20px;
-	margin-bottom: 20px;
-}
-
-.medicamento{
-     border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
 }
